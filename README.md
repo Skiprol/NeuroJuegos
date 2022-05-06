@@ -1,2 +1,0 @@
-# NeuroJuegos
-Proyecto integrador 
